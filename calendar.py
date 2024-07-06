@@ -11,10 +11,10 @@ mm = 11    # month
 # mm = int(input("Enter month: "))
 
 # display the calendar
-<<<<<<< HEAD
+
 print(calendar.month(yy, mm))
 
 #Just adding some info to commit
-=======
+
 print(calendar.month(yy, mm))
->>>>>>> 2ef05840314d7d799312f902102ccf19f44bf26e
+
